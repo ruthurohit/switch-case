@@ -1,0 +1,18 @@
+#include<stdio.h>
+int main()
+{
+int language;
+printf("enter the number");
+scanf("%d",language);
+switch (language)
+{
+case1:printf("english")
+break;
+case2:print("kannada")
+break;
+case3:printf("hindi")
+break;
+default:printf("neither of the languages available");
+}
+return=0
+}
